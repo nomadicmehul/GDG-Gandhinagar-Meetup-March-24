@@ -1,4 +1,4 @@
-# GDG-Gandhinagar-Meetup-March-23
+# GDG-Gandhinagar-Meetup-March-24
 ![GDG Gandhinagar Meetup - March'23](./event-cover.jpg)
 
 [![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.nomadicmehul.com)
