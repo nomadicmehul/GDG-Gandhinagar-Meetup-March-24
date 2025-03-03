@@ -20,7 +20,7 @@
 ### Meetup Details 
 
 * [Link to Register](https://gdg.community.dev/events/details/google-gdg-gandhinagar-presents-hitchhikers-guide-to-devops/)
-* 🗓️ Date: 30th March'23
+* 🗓️ Date: 30th March'24
 * ⏰ Time: 10:00 AM - 01:00 PM
 * 🏢 Venue: smartSense Consulting Solutions Pvt. Ltd, 9th Floor, GIFT One, Gujarat International Finance Tec-City, Gandhinagar., Gandhinagar, 382355 
 
